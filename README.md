@@ -4,7 +4,7 @@
 
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caesiummm)](https://github.com/anuraghazra/github-readme-stats)-->
 
-🌱 I’m currently gaining knowledge in developing **Android applications**
+🌱 I’m currently gaining experience in developing **Android applications**
 
 
 
